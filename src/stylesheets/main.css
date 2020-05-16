@@ -1,0 +1,182 @@
+/*
+  1. Posicionamiento
+  2. Modelo de caja (Box model)
+  3. Tipografía
+  4. Visual
+  5. Misc (Misceláneos - se puede conocer como todas las propiedades que son altamente experimentales o que no se ajustan a ninguna otra categoría.)
+*/
+
+
+* {
+  margin: 0;
+}
+
+/* Base selectors */
+p {
+  text-align: justify;
+}
+
+/* blocks */
+
+.header {
+  margin-bottom: 0.5em;
+}
+
+.containerImg {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.subheader {
+  padding-bottom: 1em;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+
+.notes {
+  display: flex;
+}
+
+.aside {
+  min-width: 250px;
+  max-width: 250px;
+  padding: 0 0.5em;
+}
+
+.main {
+  width: 80%;
+  padding: 0 0.2em;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+}
+
+.mainNote {
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.5em;
+}
+
+.noteDetails {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 27px 1fr;
+  grid-template-areas: "title title title title";
+  grid-gap: 1em;
+  padding: 1em 0;
+  border-bottom: 2px solid #000;
+}
+
+.anotherNote {
+  padding: 1em 0
+}
+
+.anotherNote__content {
+  display: flex;
+}
+
+.emptySpace {
+  min-width: 100px;
+  border-top: 2px solid #000;
+  margin-left: 0.5em;
+}
+
+/* elements */
+
+.containerImg img {
+  width: 100%;
+}
+
+.subheader h3 {
+  font-weight: normal;
+}
+
+.aside h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.aside h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.aside h3 {
+  margin-bottom: 1em;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2.aside__noteTitle {
+  font-weight: normal;
+  text-transform: capitalize;
+}
+
+.separator {
+  width: 100px;
+  height: 2px;
+  margin: 1em auto;
+  background-color: #000;
+}
+
+.imgContainer img {
+  width: 100%;
+}
+
+.mainNote h3 {
+  margin: 0.2em 0;
+}
+
+.noteDetails h2 {
+  grid-area: title;
+  font-style: italic;
+  font-size: 1.9em;
+}
+
+.noteDetails__block .separator {
+  margin-top: 0;
+}
+
+.noteDetails__block h3 {
+  margin-bottom: 0.8em;
+  text-align: center;
+}
+
+.anotherNote__title {
+  margin-bottom: 0.5em;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.9em;
+}
+
+.anotherNote__info {
+  width: 40%;
+}
+
+.anotherNote__info div {
+  display: flex;
+}
+
+.anotherNote__info p {
+  text-align: left;
+}
+
+.anotherNote__info h2 {
+  width: 90px;
+  height: 54px;
+  border-bottom: 2px solid #000;
+  margin: 0.5em;
+  margin-left: 0;
+  box-sizing: content-box;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.anotherNote__img {
+  width: 60%;
+  margin-left: 1em;
+}
+
+.anotherNote__img img {
+  width: 100%;
+}
+
