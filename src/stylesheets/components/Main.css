@@ -1,0 +1,6 @@
+.main {
+  width: 80%;
+  padding: 0 0.2em;
+  border-left: 2px solid var(--color-primary-black);
+  border-right: 2px solid var(--color-primary-black);
+}

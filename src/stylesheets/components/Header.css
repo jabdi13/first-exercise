@@ -1,0 +1,18 @@
+.header {
+  margin-bottom: 0.5em;
+}
+
+.containerImg {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.containerImg img {
+  width: 100%;
+}
+
+.subheader {
+  padding-bottom: 1em;
+  border-top: 3px solid var(--color-primary-black);
+  border-bottom: 3px solid var(--color-primary-black);
+}
