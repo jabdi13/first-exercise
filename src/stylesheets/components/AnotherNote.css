@@ -1,0 +1,47 @@
+.anotherNote {
+  padding: 1em 0
+}
+
+.anotherNote__content {
+  display: flex;
+}
+
+.anotherNote__title {
+  margin-bottom: 0.5em;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.9em;
+}
+
+.anotherNote__info {
+  width: 40%;
+}
+
+.anotherNote__info div {
+  display: flex;
+}
+
+.anotherNote__info p {
+  text-align: left;
+}
+
+.anotherNote__info h2 {
+  width: 90px;
+  height: 54px;
+  border-bottom: 2px solid var(--color-primary-black);
+  margin: 0.5em;
+  margin-left: 0;
+  box-sizing: content-box;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.anotherNote__img {
+  width: 60%;
+  margin-left: 1em;
+}
+
+.anotherNote__img img {
+  width: 100%;
+}
+
