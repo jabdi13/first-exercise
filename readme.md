@@ -8,7 +8,7 @@ This was an exercise to practice HTML, CSS and JS to finally implement React and
 4. Run it with: `npm run dev`
 5. Start coding
 
-Star the tests with `npm run test`
+Start the tests with `npm run test`
 
 ## 📄 License
 The MIT License (MIT)
