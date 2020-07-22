@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Notes Snapshot Comprobar la UI del componente Notes 1`] = `
+<div
+  className="notes"
+>
+  <div
+    className="aside"
+  >
+    <h1>
+      Lorem ipsum dolor sit amet
+    </h1>
+    <div
+      className="separator"
+    />
+    <h2>
+      Lorem ipsum
+    </h2>
+    <div
+      className="separator"
+    />
+    <h2
+      className="aside__noteTitle"
+    >
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit
+    </h2>
+    <div
+      className="separator"
+    />
+    <h3>
+      Re Banny Hakem
+    </h3>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis commodi soluta mollitia ea architecto, doloremque illo eos officia ut? Vel sint aperiam sequi nesciunt numquam consectetur blanditiis quidem impedit ducimus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam eveniet ducimus praesentium iste molestias modi facere sit veniam incidunt deserunt vitae explicabo ea ad neque, provident ab! At, id vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis voluptate minima obcaecati, a alias eius in doloremque quaerat corrupti quod quis expedita neque sint iste, saepe quae. Obcaecati, vero inventore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, harum ducimus nam alias facere atque tenetur nostrum odio dolore nobis in nesciunt, voluptate quasi omnis quisquam libero reprehenderit voluptatum doloremque? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam fuga earum eaque, voluptatibus, ducimus pariatur similique ipsum a beatae aspernatur ipsa! Impedit quos excepturi eligendi quidem. Molestiae, excepturi neque. Temporibus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ab repellendus ipsam vero. Tenetur repellat alias, laborum tempora pariatur rerum dignissimos explicabo quos ullam autem rem. Laudantium molestias similique autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ab repellendus ipsam vero. Tenetur repellat alias, laborum tempora pariatur rerum dignissimos explicabo quos ullam autem rem. Laudantium molestias similique autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ab repellendus ipsam vero. Tenetur repellat alias, laborum tempora pariatur rerum dignissimos explicabo quos ullam autem rem. Laudantium molestias similique autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ab repellendus ipsam vero. Tenetur repellat alias, laborum tempora pariatur rerum dignissimos explicabo quos ullam autem rem. Laudantium molestias similique autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora sint molestias asperiores accusantium aliquam alias. Explicabo architecto corrupti libero nobis similique accusantium, voluptates molestias? Ullam aut magnam sed hic dolorum. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo aliquam, ad similique necessitatibus voluptatibus officiis, doloremque impedit voluptas voluptates, praesentium velit est dolores adipisci porro mollitia facere a incidunt expedita.
+    </p>
+  </div>
+  <main
+    className="main"
+  >
+    <div
+      className="mainNote"
+    >
+      <div
+        className="imgContainer"
+      >
+        <img
+          alt="Obama"
+          src={Object {}}
+        />
+      </div>
+      <h3>
+        Rammury and Obama Bristle From Start
+      </h3>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur facere eum vero molestias culpa adipisci aut harum distinctio voluptates laudantium veritatis minima expedita autem natus eos eius dolore, quae aspernatur.
+      </p>
+    </div>
+    <div
+      className="noteDetails"
+    >
+      <h2>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit
+      </h2>
+      <div
+        className="noteDetails__block"
+      >
+        <div
+          className="separator"
+        />
+        <h3>
+          Some title
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repudiandae, ex excepturi illo deserunt officiis alias. Facilis deleniti ipsam quaerat architecto, sed perferendis molestias
+        </p>
+      </div>
+      <div
+        className="noteDetails__block"
+      >
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+        </p>
+      </div>
+      <div
+        className="noteDetails__block"
+      >
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+        </p>
+      </div>
+      <div
+        className="noteDetails__block"
+      >
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+        </p>
+      </div>
+    </div>
+    <div
+      className="anotherNote"
+    >
+      <h2
+        className="anotherNote__title"
+      >
+        Lorem ipsum dolor sit amet consectetur adipisicing elit
+      </h2>
+      <div
+        className="anotherNote__content"
+      >
+        <div
+          className="anotherNote__info"
+        >
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam a, praesentium numquam porro corrupti vitae quidem consectetur laboriosam amet dolor. Autem placeat iure nostrum illum itaque molestias quisquam in ipsam? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia incidunt explicabo praesentium ad maiores architecto excepturi quidem, eius Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque debitis, eos porro temporibus voluptatem cum odio iusto ipsa et explicabo! Dicta saepe harum id vitae tempora sed placeat sequi dolorem! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea quod earum deleniti, ut voluptatum soluta esse dignissimos debitis repellendus inventore sit as respice de esse memento, memento mori
+          </p>
+          <div>
+            <h2>
+              Lorem ipsum
+            </h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptas accusamus itaque deleniti dicta reiciendis atque incidunt Lorem ipsum dolor sit amet consectetur,
+            </p>
+          </div>
+          <p>
+            lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis repellat id itaque minima alias nostrum accusamus perspiciatis commodi quasi doloremque asperiores ipsam amet facere, consequatur quia porro veniam nulla dolorem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus nisi ullam, molestiae perspiciatis excepturi soluta corporis, laudantium velit recusandae repellat odio eaque atque. Corporis aspernatur voluptas omnis fugit magnam velit. Lorem, ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis architecto repellendus alias nihil iste aspernatur minus necessitatibus dolore facere voluptate odit laboriosam rerum, aperiam voluptas accusamus porro earum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus cum animi blanditiis! Quam, cupiditate velit, optio, animi sed voluptatibus ipsa facilis at qui nemo est quibusdam quae provident! Excepturi, error.
+          </p>
+        </div>
+        <div
+          className="anotherNote__img"
+        >
+          <img
+            alt=""
+            src={Object {}}
+          />
+        </div>
+      </div>
+    </div>
+  </main>
+  <div
+    className="emptySpace"
+  />
+</div>
+`;

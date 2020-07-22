@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snapshot Comprobar la UI del componente Header 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="containerImg"
+  >
+    <img
+      alt="New york times title"
+      src={Object {}}
+    />
+  </div>
+  <div
+    className="subheader"
+  >
+    <h3>
+      Contenido de subcabecera
+    </h3>
+  </div>
+</header>
+`;

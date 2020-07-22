@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainNote Snapshot Comprobar la UI del componente MainNote 1`] = `
+Array [
+  <div
+    className="mainNote"
+  >
+    <div
+      className="imgContainer"
+    >
+      <img
+        alt="Obama"
+        src={Object {}}
+      />
+    </div>
+    <h3>
+      Rammury and Obama Bristle From Start
+    </h3>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur facere eum vero molestias culpa adipisci aut harum distinctio voluptates laudantium veritatis minima expedita autem natus eos eius dolore, quae aspernatur.
+    </p>
+  </div>,
+  <div
+    className="noteDetails"
+  >
+    <h2>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit
+    </h2>
+    <div
+      className="noteDetails__block"
+    >
+      <div
+        className="separator"
+      />
+      <h3>
+        Some title
+      </h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repudiandae, ex excepturi illo deserunt officiis alias. Facilis deleniti ipsam quaerat architecto, sed perferendis molestias
+      </p>
+    </div>
+    <div
+      className="noteDetails__block"
+    >
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+      </p>
+    </div>
+    <div
+      className="noteDetails__block"
+    >
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+      </p>
+    </div>
+    <div
+      className="noteDetails__block"
+    >
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae tempore aperiam itaque, ab explicabo, nulla laboriosam cum ipsum eveniet enim minima ut consequuntur perferendis aut. Suscipit dignissimos quas est odio?
+      </p>
+    </div>
+  </div>,
+]
+`;
