@@ -1,4 +1,4 @@
-# :tw-31-20e3: First excercise
+# 1️⃣ First excercise
 This was an exercise to practice HTML, CSS and JS to finally implement React and make some tests.
 
 ## :tw-1f504: Instalation
